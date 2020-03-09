@@ -33,4 +33,4 @@ Given the time and resources, I'd like to focus on deepening my understanding of
 
 ## Code Challenge
 
--- repo link goes here --
+### Link to Repo: https://codesandbox.io/s/2020-internship-exercise-menu-f4ypo
